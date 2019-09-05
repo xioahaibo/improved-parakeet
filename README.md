@@ -1,3 +1,5 @@
-# improved-parakeet
-##应用某电商数据分析
-本次分析的数据来源于UCI加州大学欧文分校机器学习库：,链接地址是：[https://archive.ics.uci.edu/ml/datasets/online+retail#]
+# 应用某电商数据分析
+## 1.1 数据集简介
+本次分析的数据来源于UCI加州大学欧文分校机器学习库：,链接地址是：[https://archive.ics.uci.edu/ml/datasets/online+retail#]  
+该数据集为英国在线零售商在2010年12月1日至2011年12月9日间发生的所有网络交易订单信息，包括客户编号、订单编号、商品代码及数量、单价等字段。该公司主要销售礼品，拥有许多批发商客户。  
+
